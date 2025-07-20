@@ -74,7 +74,7 @@ I am currently learning Python🐍, Java☕, Photoshop✨, Illustrator🎨 and e
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=ophynz&theme=darkhub&column=7&no_bg=true&margin-h=15&margin-w=5" alt="ophynz's GitHub Trophies" width="950px"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=xphynz&theme=darkhub&column=7&no_bg=true&margin-h=15&margin-w=5" alt="xphynz's GitHub Trophies" width="950px"/></a>
 </p>
 
 ---
@@ -82,7 +82,7 @@ I am currently learning Python🐍, Java☕, Photoshop✨, Illustrator🎨 and e
 <h2 align="center">🔥 GitHub Streak Stats 🔥</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank" style="text-decoration: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ophynz&theme=dark&hide_border=true&background=000000&stroke=8B0000&ring=8B0000&fire=8B0000&currstreak=A9A9A9&sideb=A9A9A9&sidem=A9A9A9&date_format=M%20j%5B%2C%20Y%5D" alt="ophynz's GitHub Streak" width="800px"/></a>
+  <a href="https://git.io/streak-stats" target="_blank" style="text-decoration: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xphynz&theme=dark&hide_border=true&background=000000&stroke=8B0000&ring=8B0000&fire=8B0000&currstreak=A9A9A9&sideb=A9A9A9&sidem=A9A9A9&date_format=M%20j%5B%2C%20Y%5D" alt="xphynz's GitHub Streak" width="800px"/></a>
 </p>
 
 ---
