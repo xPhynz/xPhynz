@@ -6,7 +6,7 @@
 
 <h2 align="center">👤 About Me 👤</h2>
 
-* 17.
+* 17 yo.
 * I like working in a team 🤝 and alone 🧘‍♂️.
 * In school, I was an average student, but I excelled in English 😉.
 * My native language is Spanish 🌎.
